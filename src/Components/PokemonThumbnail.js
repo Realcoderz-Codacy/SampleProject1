@@ -29,9 +29,7 @@ const PokemonThumbnail = ({id,name,image,type,height,weight,stat1,stat2,stat3,st
                 posbs5={bs5}
                 posbs6={bs6}
                  /> :<></>}
-                
             </div>
-            
         </div>
     )
 }

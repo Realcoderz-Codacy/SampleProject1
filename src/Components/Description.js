@@ -1,6 +1,5 @@
 import React from 'react'
 
-
 const Description = ({heightpok,weightpok,pokstat1,pokstat2,pokstat3,pokstat4,pokstat5,pokstat6,posbs1,posbs2,posbs3,posbs4,posbs5,posbs6}) => {
     return (
         <div className="desc">
